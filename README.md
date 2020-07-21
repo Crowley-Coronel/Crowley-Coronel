@@ -19,7 +19,7 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/genaro.coronel/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-``` > When I'm not programming, you can find me drinking coffee, too many cups of coffee!  ☕☕☕ ``` 
+``` > When I'm not programming, you can find me drinking coffee, too many cups of coffee!  ☕☕☕ and playing ukelele 🎶``` 
 
 
 Take a look of some of my posts in medium.
