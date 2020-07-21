@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey ¡Nice to see you!</h1>
+<h1>🧔 Hey ¡Nice to see you!</h1>
 
 
 <p>Welcome to my github README! </br> I'm Genaro Coronel, Full Stack Web Developer from <b>Chiapas, Mexico</b>. <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="18"/>
@@ -19,7 +19,9 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/genaro.coronel/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+``` > When I'm not programming, you can find me drinking coffee, too many cups of coffee!  ☕☕☕ ``` 
 
-# Blog:
+
+Take a look of some of my posts in medium.
 
 - 💻 [Medium ](https://medium.com/@genarocoronel917)
